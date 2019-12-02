@@ -56,6 +56,24 @@ hook.Add( "PopulatePropMenu", "Many Menus", function()
 		wide = 128,
 		nicename = "M16 With GunLock",
 	} )
+	table.insert( contents, {
+		type = "model", 
+		model = "models/pringle/props/defibrillator/med_defibrillator.mdl", 
+		wide = 128,
+		nicename = "Med Defibrillator",
+	} )
+
+
+	table.insert( contents, {
+		type = "header",
+		text = "Skirt Lighting"
+	} )
+	table.insert( contents, {
+		type = "model", 
+		model = "models/pringle/props/siderunners/triple__3.mdl", 
+		wide = 128,
+		nicename = "SideRunner 3 Ion",
+	} )
 	--[[
 	table.insert( contents, {
 		type = "model", 
