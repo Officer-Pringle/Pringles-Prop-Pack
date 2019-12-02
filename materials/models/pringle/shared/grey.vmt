@@ -1,8 +1,7 @@
 "vertexlitgeneric"
 {
 
-	"$basetexture" "models/pringle/shared/black"
-	"$bumpmap" "models/pringle/shared/skin_nm"
+	"$basetexture" "models/pringle/shared/grey"
 
 	"$normalmapalphaenvmapmask" 1
 	"$phong" "1"
