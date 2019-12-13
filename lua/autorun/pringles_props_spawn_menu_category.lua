@@ -16,7 +16,7 @@ local function AddHeader(name)
 	})
 end
 
-local function AddModel(path, name, wide, tall)
+local function AddModel(name, path, wide, tall)
 	if not wide then wide = 150 end
 	if not tall then tall = 100 end
 
