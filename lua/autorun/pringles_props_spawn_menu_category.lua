@@ -17,8 +17,8 @@ local function AddHeader(name)
 end
 
 local function AddModel(name, path, wide, tall)
-	if not wide then wide = 150 end
-	if not tall then tall = 100 end
+	if not wide then wide = 256 end
+	if not tall then tall = 128 end
 
 	Add({
 		type = "model",
