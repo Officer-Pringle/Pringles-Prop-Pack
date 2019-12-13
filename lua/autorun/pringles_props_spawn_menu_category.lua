@@ -29,7 +29,7 @@ local function AddModel(name, path, wide, tall)
 	})
 end
 
-hook.Add("PopulatePropMenu", "Many Menus", function()
+hook.Add("PopulatePropMenu", "Pringles Prop Pack Menu", function()
 	Clear()
 
 	AddHeader("Random Props")
