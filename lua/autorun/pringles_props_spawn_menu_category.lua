@@ -1,3 +1,34 @@
+local contents = {}
+local function Add(data)
+	table.insert(contents, data)
+end
+
+local function Clear()
+	for id, _ in ipairs(contents) do
+		contents[id] = nil
+	end
+end
+
+local function AddHeader(name)
+	Add({
+		type = "header",
+		text = name
+	})
+end
+
+local function AddModel(path, name, wide, tall)
+	if not wide then wide = 150 end
+	if not tall then tall = 100 end
+
+	Add({
+		type = "model",
+		model = path,
+		wide = wide,
+		tall = tall,
+		nicename = name
+	})
+end
+
 hook.Add( "PopulatePropMenu", "Many Menus", function()
 
 	local contents = {}
