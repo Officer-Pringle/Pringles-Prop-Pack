@@ -11,3 +11,8 @@ This is open to pull requests, suggestions and more.
 - Medical Props
 - Lightbars and Light Props
 - Random Other Props
+
+## Contributor's
+ - Doctor Internet
+   - Better Spawn Menu Code.
+   - Reformatted my Shitty Code with a Bunch of following white spaces.
