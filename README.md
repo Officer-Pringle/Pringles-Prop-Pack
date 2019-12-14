@@ -1,12 +1,12 @@
-# Pringles-Prop-Pack
- The Prop Pack by Pringle
- 
- ## About
-This is the Offical Prop Pack made by Pringle
-In this you will find multiple props and components to use ingame for garrys mod
+# Pringles' Prop Pack
+The Prop Pack by Pringle
 
-This Is open to Pull Request, Suggestions and more 
+## About
+This is the official prop pack made by Pringle.
+In this you will find multiple props and components to use in-game for Garry's Mod.
+
+This is open to pull requests, suggestions and more.
 
 - Police Props and Components
 - Medical Props
-- Lightbars and Light Props 
+- Lightbars and Light Props
