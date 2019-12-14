@@ -32,7 +32,7 @@ end
 hook.Add("PopulatePropMenu", "Pringles Prop Pack Menu", function()
 	Clear()
 
-	AddHeader("Random Props")
+	AddHeader("Police Props")
 	AddModel("Sentia Trunk Organizer", "models/pringle/props/trunk_organizer/trunk_organizer.mdl")
 	AddModel("Stalker DSR 2X", "models/pringle/props/stalkerdsr2x.mdl")
 	AddModel("Panasonic Toughbook", "models/pringle/props/panasonic_toughbook/panasonic_toughbook.mdl")
@@ -42,6 +42,11 @@ hook.Add("PopulatePropMenu", "Pringles Prop Pack Menu", function()
 	AddModel("M16 Prop", "models/pringle/props/m16_rifle/m16.mdl")
 	AddModel("M16 With GunLock", "models/pringle/props/m16_rifle/m16gunlock.mdl")
 	AddModel("Med Defibrillator", "models/pringle/props/defibrillator/med_defibrillator.mdl")
+	AddModel("Window Bar Driver", "models/pringle/props/windowbars/driver_bars.mdl")
+	AddModel("Window Bar 'Passenger", "models/pringle/props/windowbars/pass_bar.mdl")
+
+	AddHeader("Other Props")
+	AddModel("NCR ATM", "models/pringle/props/atm/ncr_atm.mdl")
 
 	AddHeader("Skirt Lighting")
 	AddModel("SideRunner 1 Ion", "models/pringle/props/siderunners/single__1.mdl")
