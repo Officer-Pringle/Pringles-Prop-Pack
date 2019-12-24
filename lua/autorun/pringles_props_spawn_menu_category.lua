@@ -41,9 +41,13 @@ hook.Add("PopulatePropMenu", "Pringles Prop Pack Menu", function()
 	AddModel("Pro Guard Gun Mount", "models/pringle/props/gunmount/gunmount.mdl")
 	AddModel("M16 Prop", "models/pringle/props/m16_rifle/m16.mdl")
 	AddModel("M16 With GunLock", "models/pringle/props/m16_rifle/m16gunlock.mdl")
-	AddModel("Med Defibrillator", "models/pringle/props/defibrillator/med_defibrillator.mdl")
 	AddModel("Window Bar Driver", "models/pringle/props/windowbars/driver_bars.mdl")
 	AddModel("Window Bar 'Passenger", "models/pringle/props/windowbars/pass_bar.mdl")
+
+	AddHeader("Medical Props")
+	AddModel("Med Defibrillator", "models/pringle/props/defibrillator/med_defibrillator.mdl")
+	AddModel("Medical Bag","models/pringle/props/medbag/medbag.mdl")
+
 
 	AddHeader("Other Props")
 	AddModel("NCR ATM", "models/pringle/props/atm/ncr_atm.mdl")
