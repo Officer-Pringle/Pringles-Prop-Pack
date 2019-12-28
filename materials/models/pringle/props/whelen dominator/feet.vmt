@@ -1,7 +1,7 @@
 "vertexlitgeneric"
 {
 
-	"$basetexture" "models/pringle/props/other/santa_tex"
+	"$basetexture" "models/pringle/shared/black"
 	"$bumpmap" "models/pringle/shared/skin_nm"
 	"$normalmapalphaenvmapmask" 1
 	"$phong" "1"
@@ -19,5 +19,3 @@
 		}
 	}
 }
-
-
