@@ -59,5 +59,12 @@ hook.Add("PopulatePropMenu", "Pringles Prop Pack Menu", function()
 	AddModel("SideRunner 4 Ion", "models/pringle/props/siderunners/four_4.mdl")
 	AddModel("SideRunner 5 Ion", "models/pringle/props/siderunners/five_5.mdl")
 
+	AddHeader("Whelen Dominator Series")
+	AddModel("WDS 2 Ion", "models/pringle/props/whelen dominator/dominator02")
+	AddModel("WDS 4 Ion", "models/pringle/props/whelen dominator/dominator04")
+	AddModel("WDS 6 Ion", "models/pringle/props/whelen dominator/dominator06")
+	AddModel("WDS 8 Ion", "models/pringle/props/whelen dominator/dominator8")
+
+
 	spawnmenu.AddPropCategory("Pringles Props", "Pringles Props", contents, "icon16/emoticon_tongue.png")
 end)
