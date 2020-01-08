@@ -1,16 +1,15 @@
 "vertexlitgeneric"
 {
 
-	"$basetexture" "models/pringle/shared/light_silver"
+	"$basetexture" "models/pringle/props/trunk_equip/light_silver"
 	"$bumpmap" "models/pringle/shared/skin_nm"
-
 	"$normalmapalphaenvmapmask" 1
 	"$phong" "1"
 	"$phongexponent" "2"
 	"$phongboost" "0.01"	
 	"$phongfresnelranges"	"[1 1 1]"
 	"$nodecal" "1"
-	"$colorfix" "{19 19 19}"
+	"$colorfix" "{255,255,255}"
 	"Proxies"
 	{
 		"Equals"
