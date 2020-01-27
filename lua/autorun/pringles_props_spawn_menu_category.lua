@@ -43,6 +43,10 @@ hook.Add("PopulatePropMenu", "Pringles Prop Pack Menu", function()
 	AddModel("M16 With GunLock", "models/pringle/props/m16_rifle/m16gunlock.mdl")
 	AddModel("Window Bar Driver", "models/pringle/props/windowbars/driver_bars.mdl")
 	AddModel("Window Bar 'Passenger", "models/pringle/props/windowbars/pass_bar.mdl")
+	AddModel("Custom Trunk Equipment", "models/pringle/props/trunk_equip/trunk_equip_custom.mdl")
+
+	AddHeader("Lightbars")
+	AddModel("Whelen 9000", "models/pringle/props/whelen_edge_9k/whelen_speaker.mdl")
 
 	AddHeader("Medical Props")
 	AddModel("Med Defibrillator", "models/pringle/props/defibrillator/med_defibrillator.mdl")
