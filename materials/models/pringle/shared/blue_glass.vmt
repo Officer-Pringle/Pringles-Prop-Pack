@@ -1,7 +1,7 @@
 "VertexlitGeneric"
 {
 	"$basetexturetransform" "center 0 0 scale 70 70 rotate 0 translate 0 0"
-	"$basetexture" "models/pringle/shared/glass"
+	"$basetexture" "models/pringle/shared/blue_glass"
 	"$bumpmap" "models/pringle/shared/skin_nm"
 
 	"$translucent" 1

@@ -1,7 +1,7 @@
 "vertexlitgeneric"
 {
 
-	"$basetexture" "models/pringle/props/whelen_edge_9k/ion_clear"
+	"$basetexture" "models/pringle/props/whelen_edge_9k/ions_base"
 	"$bumpmap" "models/pringle/shared/skin_nm"
 	"$normalmapalphaenvmapmask" 1
 	"$phong" "1"
@@ -19,4 +19,3 @@
 		}
 	}
 }
-

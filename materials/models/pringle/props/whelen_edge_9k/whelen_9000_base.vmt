@@ -3,10 +3,12 @@
 
 	"$basetexture" "models/pringle/props/whelen_edge_9k/whelen_9000_base"
 	"$bumpmap" "models/pringle/props/whelen_edge_9k/whelen_9000_base_b"
+	"$envmap" env_cubemap
+	"$envmaptint" "[0.75 0.75 0.75]"
 	"$normalmapalphaenvmapmask" 1
 	"$phong" "1"
-	"$phongexponent" "2"
-	"$phongboost" "0.01"	
+	"$phongexponent" "3"
+	"$phongboost" "10.1"	
 	"$phongfresnelranges"	"[1 1 1]"
 	"$nodecal" "1"
 	"$colorfix" "{255,255,255}"
