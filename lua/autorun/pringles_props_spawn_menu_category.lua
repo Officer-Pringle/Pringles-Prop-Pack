@@ -46,7 +46,8 @@ hook.Add("PopulatePropMenu", "Pringles Prop Pack Menu", function()
 	AddModel("Custom Trunk Equipment", "models/pringle/props/trunk_equip/trunk_equip_custom.mdl")
 
 	AddHeader("Lightbars")
-	AddModel("Whelen 9000", "models/pringle/props/whelen_edge_9k/whelen_speaker.mdl")
+	AddModel("Whelen 9000", "models/pringle/props/whelen_edge_9k/whelen_edge_9k.mdl")
+	AddModel("Star Phaser 1K", "models/pringle/props/star gazer 1000/star_1000.mdl")
 
 	AddHeader("Medical Props")
 	AddModel("Med Defibrillator", "models/pringle/props/defibrillator/med_defibrillator.mdl")
