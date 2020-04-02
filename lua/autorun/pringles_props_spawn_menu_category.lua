@@ -48,6 +48,7 @@ hook.Add("PopulatePropMenu", "Pringles Prop Pack Menu", function()
 	AddHeader("Lightbars")
 	AddModel("Whelen 9000", "models/pringle/props/whelen_edge_9k/whelen_edge_9k.mdl")
 	AddModel("Star Phaser 1K", "models/pringle/props/star gazer 1000/star_1000.mdl")
+	AddModel("Ambulance Rear Lightbar", "models/pringle/props/ambo_lightbar/ambo_lightbar.mdl")
 
 	AddHeader("Medical Props")
 	AddModel("Med Defibrillator", "models/pringle/props/defibrillator/med_defibrillator.mdl")
@@ -56,6 +57,7 @@ hook.Add("PopulatePropMenu", "Pringles Prop Pack Menu", function()
 
 	AddHeader("Other Props")
 	AddModel("NCR ATM", "models/pringle/props/atm/ncr_atm.mdl")
+	AddModel("ChalkBoard", "models/pringle/props/other/chalkboard/chalkboard.mdl")
 
 	AddHeader("Skirt Lighting")
 	AddModel("SideRunner 1 Ion", "models/pringle/props/siderunners/single__1.mdl")
